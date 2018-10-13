@@ -1,5 +1,5 @@
 # SR-Snort: IPv6 Segment Routing Aware IDS/IPS
-SR-Snort is an SR-aware Intrusion Detection System (IDS)/Intrusion Prevention System (IPS). It extends the open-source implementation of Snort, so it can apply snort rules directly to inner packet of SR encapsulated traffic. It supports inner IPv4 and IPv6 packets in both passive (IDS) and inline (IPS) modes. For more Information on SR-Snort can be found 
+SR-Snort is an SR-aware Intrusion Detection System (IDS)/Intrusion Prevention System (IPS). It extends the open-source implementation of Snort, so it can apply snort rules directly to inner packet of SR encapsulated traffic. It supports inner IPv4 and IPv6 packets in both passive (IDS) and inline (IPS) modes.
 
 ## Design and Implementation 
 The design and implementation of SR-Snort is available [here](http://netgroup.uniroma2.it/Stefano_Salsano/papers/18-sr-snort-demo.pdf). 
