@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DAQ_VERSION="2.0.6"
+DAQ_VERSION="2.0.7"
 
 # Install required packages 
 sudo apt-get update
